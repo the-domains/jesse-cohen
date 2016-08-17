@@ -1,7 +1,7 @@
 name: Jesse Cohen
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.55778
+typography_spectrum: 0.48599
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1875
-  lightness: 0.5625
-  saturation: 0.25
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
